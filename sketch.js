@@ -25,9 +25,9 @@ function setup() {
 // the color of the car
 function drawCar(x, y, len) {
   rectMode(CENTER);
-  fill(255, 0, 0);
+  fill("red");
   rect(x, y, len, len / 2);
-  fill(0);
+  fill("black");
   rect(x - len / 3, y + len / 3, len / 4, len / 8);
   rect(x + len / 3, y + len / 3, len / 4, len / 8);
   rect(x - len / 3, y - len / 3, len / 4, len / 8);
