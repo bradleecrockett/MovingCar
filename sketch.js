@@ -1,13 +1,13 @@
 // MovingCar
-// Your Name
-// Date
+// Your Name:
+// Date:
 //
 // Extra for Experts:
 // - describe what you did to take this project "above and beyond"
 
-var xPos = 200;
-var yPos = 200;
-var carSize = 100;
+let xPos = 200;
+let yPos = 200;
+let carSize = 100;
 //TODO #3a declare a variable named BLUE
 
 function setup() {
